@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1447805805 source:c:\users\adva\documents\adva gr.12\computer science\c++ programs\matrices\main.cpp
+	<iostream>
+	<stdio.h>
+
+1447806524 source:c:\users\adva\documents\adva gr.12\computer science\c++ programs\matrices\matrixes with pointers.cpp
+	<iostream>
+	<stdio.h>
+
